@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe0a2ef8-6bd8-4a0f-936c-28baf0b778d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TomTom Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TomTom Project.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KingVik-Planet&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KingVik-Planet/TomTom_Dashborad.git&quot;,
+    &quot;accountId&quot;: &quot;45a3d7fc-b13a-4e26-a66e-c1670d3ee539&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2zskIb5E53jkvYcLuSlewHcCeFR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Africa DQ Issues V2.executor": "Run",
+    "Python.Africa DQ Issues.executor": "Run",
+    "Python.AfricaDQIByItemV3.executor": "Run",
+    "Python.African Countrties.executor": "Run",
+    "Python.AllElementsEdits.executor": "Run",
+    "Python.AllElementsOmitted.executor": "Run",
+    "Python.MaprouletteAfrica.executor": "Run",
+    "Python.MaprouletteAfricaMetric.executor": "Run",
+    "Python.MaprouletteDailyStats.executor": "Run",
+    "Python.MaprouletteMetric.executor": "Run",
+    "Python.MaprouletteUserMetric.executor": "Run",
+    "Python.TT_Events.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.Test2.executor": "Run",
+    "Python.Togo 2.executor": "Run",
+    "Python.Togo.executor": "Run",
+    "Python.TomTom Event Tags.executor": "Run",
+    "Python.TomTomEventTags_Version1.executor": "Run",
+    "Python.UserAllElementbyCountry.executor": "Run",
+    "Python.UserCMDbyCountry.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.changesets.executor": "Run",
+    "Python.login.executor": "Run",
+    "Python.tt_event_AllAfrica.executor": "Run",
+    "Python.tt_event_Claude.executor": "Run",
+    "Python.tt_event_Deep.executor": "Run",
+    "Python.tt_event_v1.executor": "Run",
+    "Python.tt_play.executor": "Run",
+    "Python.utils.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/chukw/PycharmProjects/TomTom Project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\KingVik" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\osmsg" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\osmsg\ohsome_log" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\KingVik\InPause" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\KingVik\Pre-Play" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\KingVik\InPlay" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\KingVik\Outdated" />
+      <recent name="C:\Users\chukw\PycharmProjects\TomTom Project\KingVik" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4c141bd692a7-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe0a2ef8-6bd8-4a0f-936c-28baf0b778d1" name="Changes" comment="" />
+      <created>1752527089118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752527089118</updated>
+    </task>
+    <servers />
+  </component>
+</project>
