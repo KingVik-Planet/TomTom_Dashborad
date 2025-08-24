@@ -5,7 +5,7 @@ import time
 from datetime import datetime, date
 from io import StringIO
 
-# Configuration
+# Configuration and Saving Location
 output_dir = r"G:\My Drive\Dashboard\TomTom Power BI\AfricaDQIByItemV3"
 os.makedirs(output_dir, exist_ok=True)
 execution_date = datetime.now().strftime("%Y-%m-%d")
